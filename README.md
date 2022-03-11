@@ -83,7 +83,7 @@ or
 
 ### License
 
-- [MIT License](url) 
+- [MIT License](https://github.com/2000090063/Django-cheat-sheet/blob/main/LICENSE) 
 
 Copyright (c) 2022 Karthik Reddy Veluru
 
